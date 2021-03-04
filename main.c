@@ -44,6 +44,7 @@ void start(bool run, int cont)
 {
     while (run)
     {
+
         int nop;
         nop = select_player_number();
         printf("Please place your bet $: ");
