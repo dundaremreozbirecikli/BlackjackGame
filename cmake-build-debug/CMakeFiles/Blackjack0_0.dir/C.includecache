@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dunda/CLionProjects/Blackjack0.0/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+zconf.h
+-
+stdbool.h
+-
+
